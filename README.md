@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pvrajesh
 - 👀 I’m interested in .net, Qantum computing, Cyber security 
 - 🌱 I’m currently learning .Net core, AWS,Dockers.et.c
-- 💞️ I’m looking to collaborate on .Net and .net core, Angular projects
 - 📫 How to reach me at linked in - https://www.linkedin.com/in/rajeshleaddev/
 
 <!---
